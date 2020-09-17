@@ -16,7 +16,7 @@ const styles = `
     line-height: normal;
     margin: 0;
     padding: 0.41em 1.25em;
-    position: relative;s
+    position: relative;
     text-align: center;
     text-decoration: none;
     transition: 
