@@ -4,19 +4,19 @@ const styles = `
   .button {
     background: #215cca;
     border-color: #183889;
-    border-radius: 0.125rem;
+    border-radius: 0.26em;
     border-style: solid;
     border-width: 0.125rem;
     color: #fff;
     cursor: pointer;
     display: inline-block;
-    font-family: "Source Sans Pro", Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;";
+    font-family: "Source Sans Pro", Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1em;
     font-weight: 600;
     line-height: normal;
     margin: 0;
-    padding: 2.44em 1.25em;
-    position: relative;
+    padding: 0.41em 1.25em;
+    position: relative;s
     text-align: center;
     text-decoration: none;
     transition: 
