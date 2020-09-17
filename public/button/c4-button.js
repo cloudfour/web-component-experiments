@@ -3,10 +3,8 @@ let tmpl = document.createElement('template');
 const styles = `
   .button {
     background: #215cca;
-    border-color: #183889;
+    border: #183889 0.125rem solid;
     border-radius: 0.26em;
-    border-style: solid;
-    border-width: 0.125rem;
     color: #fff;
     cursor: pointer;
     display: inline-block;
